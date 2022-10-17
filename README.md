@@ -1,16 +1,45 @@
-# bmi_calculator
+<h1 align="center">
+BMI Calculator
+</h1>
 
-A new Flutter project.
+<h2>
+Decription
+</h2>
 
-## Getting Started
+This is a mobile app that calculates your body mass index (BMI) according to your gender, height, weight, age and there are three cases for the result underweight, normal and overweight.
 
-This project is a starting point for a Flutter application.
+<h2>
+Screenshots
+</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<h2 align="center">
+Home
+</h2>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align = "center">
+<img 
+   width="200"
+   src="https://github.com/EbrahimTarek02/BMI_Calculator/blob/main/Screenshots/Screenshot_1666041663.png"
+   >
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2 align="center">
+Result
+</h2>
+
+<p align = "center">
+<img 
+   width="200"
+   src="https://github.com/EbrahimTarek02/BMI_Calculator/blob/main/Screenshots/Screenshot_1666043290.png"
+>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+   width="200"
+   src="https://github.com/EbrahimTarek02/BMI_Calculator/blob/main/Screenshots/Screenshot_1666041821.png"
+>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+   width="200"
+   src="https://github.com/EbrahimTarek02/BMI_Calculator/blob/main/Screenshots/Screenshot_1666043323.png"
+>
+</p>
